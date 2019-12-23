@@ -1,0 +1,17 @@
+h1{
+    text-align:center; 
+    background-color:#eeb1c5;
+}
+
+h2{
+    background-color: green;
+}
+
+.subtitulo{
+    color: red ;
+    font-family: Arial;
+    background-color: white;
+}
+#img1{
+    float:right;
+}
