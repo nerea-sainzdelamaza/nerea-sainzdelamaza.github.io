@@ -1,19 +1,70 @@
 body{
-    background-color: #152238 
+    background-color: #152238;
 }
 a{
+    color: white;
+    font-size: 35px;
+}
+#title{
+    color: white;
+    font-size: 2cm;
+    font-family: Verdana;
+    text-align: center;
+}
+#texto{
+ color:slategrey;
+ background-color: slategrey;
+ height: 1cm;
+}
+
+#h1{
+    color: white;
+    text-align: center;
+
+}
+.cabo{
+    color: white;
+    text-align: justify;
+    text-align: center;
+}
+.tunez{
+    color: white;
+    text-align: justify;
+    text-align: center;
+}
+
+.bali{
+    color: white;
+    text-align: justify;
+    text-align: center;
+}
+.kl{
+    color: white;
+    text-align: justify;
+    text-align: center;
+}
+#titulo1{
     color:white;
-    font-size : 35px
+    text-align: center;
 }
-h1{
-    color: white;
-    text-align: center; 
-    font-size:60px; 
+#subtitle{
+    color:white;
+    font-style: italic;
+    text-align: center;
 }
-h2{
-    color: white;
-    font-style: italic
+#img{
+    height:330px;
+    width: 700px;
+}
+#bar{
+    float: left;
+}
+#bar a{
+    font-size:25px
+}
+#linea{
+    height:0.5cm
 }
 p{
-    color: white;
+    font-size: 20px;
 }
